@@ -1,5 +1,5 @@
 def low_num():
-    num1 = input("First number: ")
+    num1 = input("1st number: ")
     num2 = input("2nd number: ")
     num3 = input("3rd number: ")
 
