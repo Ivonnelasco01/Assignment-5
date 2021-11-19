@@ -1,6 +1,7 @@
 def low_num():
-    num1 = input("1st number: ")
-    num2 = input("2nd number: ")
-    num3 = input("3rd number: ")
+    num1 = int(input("Enter 1st number: "))
+    num2 = int(input("Enter 2nd number: "))
+    num3 = int(input("Enter 3rd number: "))
 
 lowestNumber = low_num()
+
